@@ -1,0 +1,198 @@
+@keyframes Header_Keyframes_Header {
+  0% {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke='%23000000' stroke-width='1'%3E%3Cpath d='M769 229L1037 260.9M927 880L731 737 520 660 309 538 40 599 295 764 126.5 879.5 40 599-197 493 102 382-31 229 126.5 79.5-69-63'/%3E%3Cpath d='M-31 229L237 261 390 382 603 493 308.5 537.5 101.5 381.5M370 905L295 764'/%3E%3Cpath d='M520 660L578 842 731 737 840 599 603 493 520 660 295 764 309 538 390 382 539 269 769 229 577.5 41.5 370 105 295 -36 126.5 79.5 237 261 102 382 40 599 -69 737 127 880'/%3E%3Cpath d='M520-140L578.5 42.5 731-63M603 493L539 269 237 261 370 105M902 382L539 269M390 382L102 382'/%3E%3Cpath d='M-222 42L126.5 79.5 370 105 539 269 577.5 41.5 927 80 769 229 902 382 603 493 731 737M295-36L577.5 41.5M578 842L295 764M40-201L127 80M102 382L-261 269'/%3E%3C/g%3E%3Cg fill='%232fffe7'%3E%3Ccircle cx='769' cy='229' r='5'/%3E%3Ccircle cx='539' cy='269' r='5'/%3E%3Ccircle cx='603' cy='493' r='5'/%3E%3Ccircle cx='731' cy='737' r='5'/%3E%3Ccircle cx='520' cy='660' r='5'/%3E%3Ccircle cx='309' cy='538' r='5'/%3E%3Ccircle cx='295' cy='764' r='5'/%3E%3Ccircle cx='40' cy='599' r='5'/%3E%3Ccircle cx='102' cy='382' r='5'/%3E%3Ccircle cx='127' cy='80' r='5'/%3E%3Ccircle cx='370' cy='105' r='5'/%3E%3Ccircle cx='578' cy='42' r='5'/%3E%3Ccircle cx='237' cy='261' r='5'/%3E%3Ccircle cx='390' cy='382' r='5'/%3E%3C/g%3E%3C/svg%3E");
+  }
+  50% {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke='%23202020' stroke-width='1'%3E%3Cpath d='M769 229L1037 260.9M927 880L731 737 520 660 309 538 40 599 295 764 126.5 879.5 40 599-197 493 102 382-31 229 126.5 79.5-69-63'/%3E%3Cpath d='M-31 229L237 261 390 382 603 493 308.5 537.5 101.5 381.5M370 905L295 764'/%3E%3Cpath d='M520 660L578 842 731 737 840 599 603 493 520 660 295 764 309 538 390 382 539 269 769 229 577.5 41.5 370 105 295 -36 126.5 79.5 237 261 102 382 40 599 -69 737 127 880'/%3E%3Cpath d='M520-140L578.5 42.5 731-63M603 493L539 269 237 261 370 105M902 382L539 269M390 382L102 382'/%3E%3Cpath d='M-222 42L126.5 79.5 370 105 539 269 577.5 41.5 927 80 769 229 902 382 603 493 731 737M295-36L577.5 41.5M578 842L295 764M40-201L127 80M102 382L-261 269'/%3E%3C/g%3E%3Cg fill='%23333333'%3E%3Ccircle cx='769' cy='229' r='5'/%3E%3Ccircle cx='539' cy='269' r='5'/%3E%3Ccircle cx='603' cy='493' r='5'/%3E%3Ccircle cx='731' cy='737' r='5'/%3E%3Ccircle cx='520' cy='660' r='5'/%3E%3Ccircle cx='309' cy='538' r='5'/%3E%3Ccircle cx='295' cy='764' r='5'/%3E%3Ccircle cx='40' cy='599' r='5'/%3E%3Ccircle cx='102' cy='382' r='5'/%3E%3Ccircle cx='127' cy='80' r='5'/%3E%3Ccircle cx='370' cy='105' r='5'/%3E%3Ccircle cx='578' cy='42' r='5'/%3E%3Ccircle cx='237' cy='261' r='5'/%3E%3Ccircle cx='390' cy='382' r='5'/%3E%3C/g%3E%3C/svg%3E");
+  }
+  100% {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 800 800'%3E%3Cg fill='none' stroke='%23000000' stroke-width='1'%3E%3Cpath d='M769 229L1037 260.9M927 880L731 737 520 660 309 538 40 599 295 764 126.5 879.5 40 599-197 493 102 382-31 229 126.5 79.5-69-63'/%3E%3Cpath d='M-31 229L237 261 390 382 603 493 308.5 537.5 101.5 381.5M370 905L295 764'/%3E%3Cpath d='M520 660L578 842 731 737 840 599 603 493 520 660 295 764 309 538 390 382 539 269 769 229 577.5 41.5 370 105 295 -36 126.5 79.5 237 261 102 382 40 599 -69 737 127 880'/%3E%3Cpath d='M520-140L578.5 42.5 731-63M603 493L539 269 237 261 370 105M902 382L539 269M390 382L102 382'/%3E%3Cpath d='M-222 42L126.5 79.5 370 105 539 269 577.5 41.5 927 80 769 229 902 382 603 493 731 737M295-36L577.5 41.5M578 842L295 764M40-201L127 80M102 382L-261 269'/%3E%3C/g%3E%3Cg fill='%232fffe7'%3E%3Ccircle cx='769' cy='229' r='5'/%3E%3Ccircle cx='539' cy='269' r='5'/%3E%3Ccircle cx='603' cy='493' r='5'/%3E%3Ccircle cx='731' cy='737' r='5'/%3E%3Ccircle cx='520' cy='660' r='5'/%3E%3Ccircle cx='309' cy='538' r='5'/%3E%3Ccircle cx='295' cy='764' r='5'/%3E%3Ccircle cx='40' cy='599' r='5'/%3E%3Ccircle cx='102' cy='382' r='5'/%3E%3Ccircle cx='127' cy='80' r='5'/%3E%3Ccircle cx='370' cy='105' r='5'/%3E%3Ccircle cx='578' cy='42' r='5'/%3E%3Ccircle cx='237' cy='261' r='5'/%3E%3Ccircle cx='390' cy='382' r='5'/%3E%3C/g%3E%3C/svg%3E");
+  }
+}
+@keyframes Header_Keyframes_Logo {
+  0% {
+    color: #00a693;
+  }
+  50% {
+    color: whitesmoke;
+  }
+  100% {
+    color: #00a693;
+  }
+}
+@keyframes Header_Keyframes_Start {
+  0% {
+    box-shadow: 0px 0px 0px 1px #ee5a24;
+  }
+  50% {
+    box-shadow: 0px 0px 0px 1px #202020;
+  }
+  100% {
+    box-shadow: 0px 0px 0px 1px #ee5a24;
+  }
+}
+.Header_Div_Header_CN {
+  height: 70px;
+  background-color: #282828;
+  display: flex;  
+  animation: Header_Keyframes_Header infinite 2s;
+}
+.Header_Div_Logo_CN {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Header_I_Logo_CN {
+  color: #00a693;
+  border: 1px solid #005e53;
+  background-color: #181818;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 10px;
+  animation: Header_Keyframes_Logo infinite 2s;
+}
+.Header_P_Title_CN {
+  color: whitesmoke;
+  font-family: "Scada", sans-serif;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-left: 10px;
+}
+.Header_Div_Start_CN {
+  height: 70;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Header_Div_Start_Main_CN {
+  width: 400px;
+  height: 45px;
+  border-radius: 5px;
+  background-color: #181818;
+  display: flex;
+  align-items: center;
+  animation: Header_Keyframes_Start infinite 2s;
+}
+.Header_Div_Start_Main_LogedIn_CN {
+  animation: none;
+  border: 1px solid #005e53;
+}
+.Header_I_User_CN {
+  color: #00a693;
+  background-color: #151515;
+  border-radius: 50px;
+  font-size: 20px;
+  padding: 10px;
+  margin-left: 2.5px;
+}
+.Header_P_User_CN {
+  width: 275px;
+  color: whitesmoke;
+  margin-left: 10px;
+  font-family: "Scada", sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+.Header_I_SignIn_CN,
+.Header_I_SignOut_CN,
+.Header_I_SignUp_CN {
+  color: #00a693;
+  padding: 10px;
+  font-size: 14px;
+  transition: 200ms;
+}
+.Header_I_SignIn_CN:hover,
+.Header_I_SignOut_CN:hover,
+.Header_I_SignUp_CN:hover {
+  color: whitesmoke;
+  cursor: pointer;
+}
+.Header_I_SignIn_CN:hover > .Header_Span_SignInTooltip_CN,
+.Header_I_SignOut_CN:hover > .Header_Span_SignOutTooltip_CN,
+.Header_I_SignUp_CN:hover > .Header_Span_SignUpTooltip_CN{
+    display: block;
+    animation: FadeIn 500ms;
+  }
+.Header_Span_SignInTooltip_CN, .Header_Span_SignUpTooltip_CN, .Header_Span_SignOutTooltip_CN{
+    display: none;
+    position: absolute;
+    padding: 5px 8px;
+    border-radius: 5px;
+    margin-top: 31px;
+    margin-left: -20px;
+    color: #00a693;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    background-color: #202020;
+}
+.Header_I_SignOut_CN{
+  margin-left: 30px;
+}
+.Header_Div_OnlineState_CN{
+  width: 25%;
+  justify-content: center;
+  align-items: center;
+  color: #00a693;
+  display: none;
+  animation: FadeIn 1s;
+  animation: Header_Keyframes_Logo infinite 2s;
+}
+.Header_Div_Onlinetrue_CN{
+  display: flex;
+}
+.Header_P_Online_CN{
+  font-family: "Scada", sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;  
+}
+.Header_Div_SignOut_CN{
+  width: 30%;
+  position: absolute;
+  background-color: #282828;
+  margin: 150px 35%;
+  border-radius: 5px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  color: whitesmoke;
+  border: 1px solid #005e53;
+}
+.Header_Div_SignOutClose_CN{
+  display: flex;
+  justify-content: center;
+  color: whitesmoke;
+}
+.Header_P_SignOutTitle_CN{
+  letter-spacing: 1px;
+}
+.Header_Div_SignOutButtons_CN{
+  display: flex;
+  justify-content: center;
+}
+.Header_P_OkButtun_CN,
+.Header_P_CancelButtun_CN{
+  width: 50%;
+  padding: 15px 0px;
+  margin: 0px;
+  font-size: 14px;
+  background-color: #282828;
+  transition: 200ms;
+}
+.Header_P_OkButtun_CN{
+  border-right: 1px solid #131313;
+  border-top: 1px solid #131313;
+  border-bottom-left-radius: 5px;
+}
+.Header_P_CancelButtun_CN{
+  border-top: 1px solid #131313;
+  border-bottom-right-radius: 5px;
+}
+.Header_P_OkButtun_CN:hover,
+.Header_P_CancelButtun_CN:hover{
+  background-color: #00a693;
+  color: #202020;
+  cursor: pointer;
+}
